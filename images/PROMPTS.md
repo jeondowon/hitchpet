@@ -1,0 +1,25 @@
+# HitchPet 추가 속성 예시 이미지
+
+생성 방식: 내장 image_gen. 각 속성의 예시 1종이며, 문서의 전체 18종 제작본은 아님.
+
+기존 이미지 대응: rain-otter → 물, night-fox → 어둠, region-deer → 산, distance-red-panda → 바람.
+
+## sea
+
+Create a single original SEA-element collectible pet for HitchPet, a driving adventure creature game. A charming baby seal sea spirit, round pearl-white softly fuzzy body, seafoam turquoise flippers, glossy large teal eyes, tiny smiling muzzle, a curled ocean-wave forelock, small scallop-shell clasp on a short navy sailor neckerchief, tail flippers visible. Sitting upright with one flipper raised in greeting. Small coral-pink accents on the shell, translucent turquoise wave-like edges on flippers. Premium polished 3D character illustration, soft tactile plush materials, adorable compact proportions, clean silhouette readable at small size, matching a series of plush baby otter, fox, deer, red panda characters. Full body three-quarter front view, centered square composition with generous margins. Soft studio lighting. Truly transparent background, one character only. No landscape, no floor, no text, no logo, no UI, no watermark. Original design.
+
+## light
+
+Create one original LIGHT-element collectible pet for HitchPet, a driving adventure creature game. A charming baby lion sun spirit with creamy golden plush fur, a small round mane made of soft petal-shaped golden tufts resembling sun rays, warm amber eyes, cream muzzle, a cheerful confident smile. Tiny ivory shoulder cape with a radiant sun-shaped gold clasp. Thick little paws, curled tail with luminous warm gold tuft. Standing full body with one front paw lifted, compact adorable proportions, oversized head. Premium polished 3D game character illustration with softly tactile fur and controlled warm golden light on mane tips, clean silhouette readable at small size. Match a collectible series of baby otter, moon fox, forest deer, traveling red panda. Full-body three-quarter front view, centered square composition with generous clear margins. Soft studio lighting. Truly transparent background, one character only, no scenery, no ground plane, no text, no logo, no UI, no watermark. No large glow obscuring silhouette. Original design.
+
+## city
+
+Create one original CITY-element collectible pet for HitchPet, a driving adventure creature game. A charming baby silver-gray tabby cat urban explorer, cream muzzle and paws, large mint-green expressive eyes, short plush fur and a visible curled striped tail. Small stylish cobalt-blue hooded vest with coral lining, tiny crossbody messenger pouch, silver clasp shaped like three simple stepped city buildings. Subtle geometric square markings on the cheeks evoke city windows. Friendly confident grin, upright compact full-body standing pose with one paw raised. Cute animal creature, no human body. Premium polished 3D game character illustration, tactile plush fur and quality fabric, rounded adorable proportions and readable silhouette, matching a collectible series of baby moon fox, forest deer and rain otter. Full body three-quarter front view, centered square composition with ample margins. Soft studio lighting. Truly transparent background. One character only, no buildings or scenery behind it, no ground plane, no text, no logos, no UI, no watermark. Original design.
+
+## electric
+
+Create one original ELECTRICITY-element collectible pet for HitchPet, a driving adventure creature game, encountered after EV charging. A charming baby hedgehog energy spirit with a round cream plush face and belly, little rounded ears, large expressive cyan eyes, compact paws, a crown and back of chunky rounded midnight-blue quills whose tips glow turquoise like charged crystals. Small mustard-yellow utility neckerchief with a simple metallic lightning-shaped clasp. Cheerful energetic expression, standing upright with one tiny paw lifted. Exactly two small delicate cyan sparks close to quills, no big effects. Premium polished 3D game character illustration with soft tactile fur and translucent quill tips, cute compact proportions, clean readable silhouette consistent with plush collectible baby otter, fox, deer, seal and lion. Full body three-quarter front view, centered square composition with ample margins. Soft studio lighting. Truly transparent background, one character only. No scenery, no floor, no text or numbers, no battery UI, no logos, no watermark. Original design.
+
+## companion
+
+A single cute original puppy mascot for the companionship element in a family-friendly creature collecting game called HitchPet. Apricot and cream fluffy fur, floppy ears, big friendly brown eyes, cheerful smile, small rounded paws and curled tail. A coral-colored short cape fastened with two interlocking golden rings representing friendship. Standing with one front paw raised in greeting. Polished soft 3D game character art, tactile plush fur, rounded toy-like proportions, full body three-quarter view, centered square composition with clear margins, soft studio lighting. Transparent background. No text, no logos, no scenery, no other characters.
