@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HitchPet 도감</title>
+<style>
+body{font-family:sans-serif;max-width:720px;margin:2rem auto;padding:0 1rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:1rem}
+.card{border:1px solid #ccc;border-radius:8px;padding:.5rem;text-align:center;cursor:pointer}
+.card img{width:100%;border-radius:6px}
+#info{margin-top:1rem;padding:1rem;background:#f4f4f4;border-radius:8px;min-height:3rem}
+</style>
+</head>
+<body>
+<h1>HitchPet 도감</h1>
+<p>펫을 눌러 속성 상성을 확인하세요.</p>
+<div class="grid" id="grid"></div>
+<div id="info">펫을 선택하세요.</div>
+<script>
+const order=["물","산","바람","바다","빛","어둠","도시","전기","동행"];
+const pets=[
+["물","비 수달","rain-otter"],["어둠","밤 여우","night-fox"],["바람","장거리 레서판다","distance-red-panda"],
+["산","지역 사슴","region-deer"],["바다","바다 물범","sea-seal"],["빛","빛 사자","light-lion"],
+["도시","도시 고양이","city-cat"],["전기","전기 고슴도치","electric-hedgehog"],["동행","동행 강아지","companion-puppy"]];
+const g=document.getElementById("grid"),info=document.getElementById("info");
+pets.forEach(([t,n,f])=>{
+  const d=document.createElement("div");d.className="card";
+  d.innerHTML=`<img src="images/hitchpet-${f}.png" alt="${n}"><b>${n}</b><br>${t}`;
+  d.onclick=()=>{
+    const i=order.indexOf(t),m=k=>order[(i+k+9)%9];
+    info.textContent=`${t} 속성: ${m(1)}·${m(2)}에게 강함(1.5배), ${m(-1)}·${m(-2)}에게 약함(0.75배)`;
+  };
+  g.appendChild(d);
+});
+</script>
+</body>
+</html>
